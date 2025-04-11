@@ -1,0 +1,110 @@
+{
+    "wolf_places": {
+        "items": [
+            {
+                "id": "0",
+                "title": "Yellowstone National Park, USA",
+                "image": "assets/images/places/1.png",
+                "description": "Yellowstone is known for the successful reintroduction of wolves in 1995. As of December 2023, the park was home to 124 wolves in eleven packs, with six breeding pairs. Wolves play a key role in maintaining the park's ecosystem, influencing ungulate populations and helping to restore vegetation",
+                "latitude": 44.4280,
+                "longitude": -110.5885
+            },
+            {
+                "id": "1",
+                "title": "Isle Royale National Park, Michigan, USA",
+                "image": "assets/images/places/2.png",
+                "description": "Isle Royale National Park is located on the island of the same name in Lake Superior, near the Canadian border. The park covers an area of ​​about 2,300 km² and is known for its unique study of wolf-moose interactions, which has been ongoing since 1958. The wolf population on the island has fluctuated significantly due to isolation and genetic depletion. In 2018, a wolf reintroduction program was launched to restore their numbers and maintain an ecological balance.",
+                "latitude": 48.1000,
+                "longitude": -88.5500
+            },
+            {
+                "id": "2",
+                "title": "Wild Spirit Wolf Sanctuary, New Mexico, USA",
+                "image": "assets/images/places/3.png",
+                "description": "Located in Rama, New Mexico, Wild Spirit Wolf Sanctuary is a sanctuary that rescues and provides shelter to wolves and wolf-hybrids that have been rescued from captivity or dangerous situations. The sanctuary provides visitors with an opportunity to learn more about these animals and their behavior, and helps raise awareness about the issues facing wolves in captivity and in the wild.",
+                "latitude": 34.9106,
+                "longitude": -108.4892
+            },
+            {
+                "id": "3",
+                "title": "Wolf Haven International, Washington, USA",
+                "image": "assets/images/places/4.png",
+                "description": "Wolf Haven International is a non-profit organization located near Teninoy, Washington. The sanctuary provides a sanctuary for wolves rescued from captivity and participates in breeding programs for two endangered subspecies: the Mexican wolf and the red wolf. Visitors can take tours to learn more about the wolves and their conservation efforts.​",
+                "latitude": 46.9000,
+                "longitude": -122.849325
+            },
+            {
+                "id": "4",
+                "title": "Banff National Park, Alberta, Canada",
+                "image": "assets/images/places/5.png",
+                "description": "Located in the Canadian Rockies, Banff National Park is one of Canada's oldest national parks. The park covers an area of ​​over 6,600 km² and is home to a variety of wildlife, including wolves. Wolves in Banff play an important role in maintaining the ecological balance by controlling the population of ungulates. Wolf watching is a popular activity among visitors, although encounters can be rare due to the animals' wariness.​",
+                "latitude": 51.4968,
+                "longitude": 115.9281
+            },
+            {
+                "id": "5",
+                "title": "Denali National Park, Alaska, USA",
+                "image": "assets/images/places/6.png",
+                "description": "Denali National Park, located in central Alaska, encompasses over 9,500 square miles (24,500 km²) of wilderness, including North America's highest mountain, Denali. The park is home to a stable population of wolves, which live in the wild. Wolves in Denali are important predators that affect the park's ecosystem by regulating the numbers of ungulates such as moose and caribou. Wolf watching is a popular activity among visitors, although due to the park's large size, wolf encounters are not always guaranteed.​",
+                "latitude": 63.1148,
+                "longitude": -151.1926
+            },
+            {
+                "id": "6",
+                "title": "Lobo Park, Antequera, Spain",
+                "image": "assets/images/places/7.png",
+                "description": "Lobo Park is a private reserve covering 40 hectares of Mediterranean nature. It is home to three subspecies of wolves: European, Alaskan tundra and Iberian. The park offers tours to learn about the behavior of wolves in their natural environment and conducts research on their social structure.​",
+                "latitude": 36.9856,
+                "longitude": 4.6211
+            },
+            {
+                "id": "7",
+                "title": "High Tatras, Slovakia and Poland",
+                "image": "assets/images/places/8.png",
+                "description": "The High Tatras are home to a population of wolves, which inhabit the dense forests and mountainous areas. Wolves play an important role in controlling the number of ungulates. The wolf population in Slovakia is estimated at around 500 individuals, concentrated mainly in the northern and central regions.​",
+                "latitude": 49.167,
+                "longitude": 20.133
+            },
+            {
+                "id": "8",
+                "title": "Carpathians, Romania",
+                "image": "assets/images/places/9.png",
+                "description": "The Romanian Carpathians have one of the largest wolf populations in Europe, with approximately 2,500 individuals. Wolves live in a variety of landscapes, from forested mountains to plateaus. They play an important role in maintaining the ecological balance by controlling the population of ungulates. ​",
+                "latitude": 47.0000,
+                "longitude": 25.5000
+            },
+            {
+                "id": "9",
+                "title": "British Columbia, Canada",
+                "image": "assets/images/places/10.png",
+                "description": "Wolves in British Columbia inhabit a variety of habitats, from coastal areas to mountain forests. Their primary prey is moose, caribou, and deer. The wolf population here remains stable as they continue to exist in a variety of habitats throughout the province.​",
+                "latitude": 53.7267,
+                "longitude": 127.6476
+            },
+            {
+                "id": "10",
+                "title": "French Alps, France",
+                "image": "assets/images/places/11.png",
+                "description": "Wolves in British Columbia inhabit a variety of habitats, from coastal areas to mountain forests. Their primary prey is moose, caribou, and deer. The wolf population here remains stable as they continue to exist in a variety of habitats throughout the province.​",
+                "latitude": 45.8333,
+                "longitude": 6.8650
+            },
+            {
+                "id": "11",
+                "title": "Polar Park, Bardo, Norway",
+                "image": "assets/images/places/13.png",
+                "description": "Polar Park is the world's northernmost zoo, housing Norway's large carnivores, including wolves. The park offers unique opportunities to observe wolves in their natural habitat, and also organizes a 'wolf experience' where visitors can get up close and personal with these animals.",
+                "latitude": 68.6594,
+                "longitude": 18.0833
+            },
+            {
+                "id": "12",
+                "title": "Bale National Park, Ethiopia",
+                "image": "assets/images/places/14.png",
+                "description": "Bale National Park is home to the Ethiopian wolf, one of the rarest wolf species in the world. It is home to the largest population of the species, accounting for about half of the total. In",
+                "latitude": 6.8161,
+                "longitude": 39.7636
+            }
+        ]
+    }
+}
