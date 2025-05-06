@@ -27,10 +27,11 @@ class MainApp extends StatelessWidget {
         },
         theme: ThemeData(
           appBarTheme: const AppBarTheme(
-            backgroundColor: Color(0xFF10133A),
+            backgroundColor: Colors.transparent, //Color(0xFF10133A),
             scrolledUnderElevation: 0,
           ),
-          scaffoldBackgroundColor: const Color(0xFF10133A),
+          scaffoldBackgroundColor:
+              Colors.transparent, // const Color(0xFF10133A),
         ),
         home: WelcomeScreen(),
       ),
