@@ -1,5 +1,7 @@
 import 'dart:async';
+import 'package:app_tracking_transparency/app_tracking_transparency.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:ios_fl_n_wolftreasury_3369/pages/tutorial/tutorial_screen.dart';
 
 class LaunchTracker {
@@ -32,7 +34,8 @@ class _WelcomeScreenState extends State<WelcomeScreen>
   @override
   void initState() {
     super.initState();
-
+    initialization();
+    FlutterNativeSplash.remove();
     _controller = AnimationController(
       duration: const Duration(seconds: 2),
       vsync: this,
@@ -40,7 +43,13 @@ class _WelcomeScreenState extends State<WelcomeScreen>
 
     _startAppFlow();
   }
-
+  void initialization() async {
+    final TrackingStatus status =
+    await AppTrackingTransparency.trackingAuthorizationStatus;
+    if (status == TrackingStatus.notDetermined) {
+      await AppTrackingTransparency.requestTrackingAuthorization();
+    }
+  }
   void _startAppFlow() {
     final shouldShowIntro = LaunchTracker().isInitialLaunch;
 
